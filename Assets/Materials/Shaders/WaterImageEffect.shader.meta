@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3283e521bbba03945a9bf55619ed93b9
+timeCreated: 1468968210
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _OverlayTex: {fileID: 2800000, guid: b5cc3eac074eb854b86231e8cd28bd54, type: 3}
+  - _WarpTex: {fileID: 2800000, guid: 2ebebacb2fe9c7442b393fd7c19be26a, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
